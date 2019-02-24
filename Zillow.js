@@ -3,7 +3,7 @@ const xml = require('xml-parse');
 const parser = require('json-parser');
 var zillow = new Zillow('X1-ZWz1838f9ga6tn_17jma');
 var fs =  require('fs');
-http://www.zillow.com/webservice/GetRegionChildren.htm?zws-id=X1-ZWz1838f9ga6tn_17jma&state=wa&city=seattle&childtype=neighborhood
+//http://www.zillow.com/webservice/GetRegionChildren.htm?zws-id=X1-ZWz1838f9ga6tn_17jma&state=wa&city=seattle&childtype=neighborhood
 var parameters = {
 	regionId: '',
 	state:'wa',

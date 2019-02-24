@@ -3,13 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajax": "0.0.4",
+    "axios": "^0.18.0",
     "bootstrap": "^4.2.1",
     "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-geocode": "^0.1.2",
     "react-scripts": "^2.1.5",
-    "reactstrap": "^7.1.0"
+    "reactstrap": "^7.1.0",
+    "typescript": "^3.3.3333",
+    "write-json-file": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
